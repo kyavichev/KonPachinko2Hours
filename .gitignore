@@ -78,3 +78,6 @@ crashlytics-build.properties
 */Temp
 QuickFlight/Build/*
 QuickFlight/obj/*
+/Pachinko/obj
+/Pachinko/UserSettings
+.vsconfig
