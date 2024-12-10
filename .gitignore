@@ -81,3 +81,4 @@ QuickFlight/obj/*
 /Pachinko/obj
 /Pachinko/UserSettings
 .vsconfig
+/Pachinko/Build
